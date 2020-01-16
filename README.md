@@ -1,7 +1,7 @@
 # emailchecker
 <h3>Check if an email address is valid</h3>
 
-You can try the demo here: https://tanito.me/tools/emailchecker 
+You can try the demo here: https://tanito.me/tools/email-checker/
 <br>
 It is very simple, so you can modify it.
 <br>
